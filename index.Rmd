@@ -1,0 +1,40 @@
+---
+title: "Emily Jameson"
+image: "v2.jpg"
+links:
+  - label: LinkedIn
+    url: "https://linkedin.com/in/emily-jameson-70008a13b"
+  - label: Twitter
+    url: "https://twitter.com/Emily_E_Jameson"
+  - label: GitHub
+    url: "https://github.com/eejameson"
+  - label: Email
+    url: "mailto:ejameson@uw.edu"
+output:
+  postcards::trestles
+---
+ 
+## Bio
+
+Frank Hermosillo studies neural networks and their applications at Google 
+Brain. His research focuses on differentiable network pruning approximation and 
+decentralized gradient inversion mechanics. He frequently collaborates with 
+researchers who study machine learning, computer vision, and cognitive science.
+His work has been featured in WIRED, The Atlantic, Newsweek, and The New York 
+Times Magazine.
+
+## Education
+
+**Univeristy of Washington** | Seattle, WA
+
+MS School of Aquatic and Fishery Sciences | September 2021 - Present
+
+**The University of Michigan** | Ann Arbor, MI
+
+B.S. in Environment and in Statistics | September 2015 - May 2019
+
+## Experience
+
+**Google Brain** | Principal Investigator | January 2018 - Present
+
+**Netflix** | Research Scientist | June 2014 - December 2017
