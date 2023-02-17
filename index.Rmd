@@ -16,12 +16,9 @@ output:
  
 ## Bio
 
-Frank Hermosillo studies neural networks and their applications at Google 
-Brain. His research focuses on differentiable network pruning approximation and 
-decentralized gradient inversion mechanics. He frequently collaborates with 
-researchers who study machine learning, computer vision, and cognitive science.
-His work has been featured in WIRED, The Atlantic, Newsweek, and The New York 
-Times Magazine.
+Having grown up in the Great Lakes region, I am passionate about freshwater ecology and conservation. My research interests include community ecology and how humans and introduced species disrupt community dynamics in freshwater systems and how we can mitigate their negative effects. Before joining the Olden lab, I studied invasive wetland plants at the University of Michigan and worked with USGS to help coordinate management efforts of invasive Phragmites throughout the Great Lakes region. Currently, I am examining the impacts of lakeshore development on aquatic food web structure in the Puget Sound Lowlands. I will combine stable isotope and stomach content data to create quantitative food webs and use network analyses to quantify community responses. Through my research I hope to increase understanding of how freshwater communities respond to the inevitable increase of anthropogenic disturbances as the human population continues to expand. 
+
+In addition to research, outreach and mentorship is an important part of my graduate student experience. I am an active member of Students Explore Aquatic Sciences (SEAS) and the Washington State Opportunity Scholars (WSOS) mentorship program. Additionally, I lead a team of two field technicians (one undergraduate and one high school student) during the summer and I am currently supervising four undergraduate students in the lab. As a TA I am building teaching skills by creating and presenting instructional materials for Introduction to Freshwater Ecology (FISH 200).
 
 ## Education
 
